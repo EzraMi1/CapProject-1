@@ -1,0 +1,146 @@
+body{
+    background-color: #D9E6FF;
+}
+
+/*HEADER*/
+
+#header header{
+    background-color: #6C737F;
+    
+    
+    
+}
+
+#header span{
+    color: white;
+}
+
+#header .nav-link{
+    color: white;
+}
+
+#header img{
+    border-radius: 50px;
+    mix-blend-mode: multiply;
+}
+
+/*Home*/
+
+#home>.container{
+    background-color: #D9E6FF;
+}
+
+.software{
+ 
+ border-radius: 15px;
+}
+
+/*Home*/
+
+/*Projects*/
+
+#projects>.container{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+#projects .project-box{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 5px;
+    border-radius: 15px;
+    height: 45vh;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+#projects .project-box>.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    height: 70%;
+    border-radius: 15px;
+    border: solid black;
+    margin-top: 7px;
+
+}
+
+
+
+#projects .project-box>.item>a{
+    width: 100%;
+    height: 100%;
+}
+
+#projects img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+
+
+#projects .paragraph{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 500; 
+}
+
+
+
+/*Projects*/
+
+/*Education*/
+ 
+#education .skills{
+   
+   border-radius: 10px;
+}
+
+#education header{
+    background-color: #002A7F;
+    display: flex;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+#education .skills>div{
+    background-color: #AEB8CC;
+    border: solid black 1px;
+    box-shadow: 5px 5px 5px ;
+    
+}
+
+#education .left-box{
+    border: solid black 1px;
+    background-color: #D8E5FF;
+    box-shadow: 0px 5px 5px;
+    padding-bottom: 200px;
+}
+
+#education .right-box{
+    border: solid black 1px;
+    background-color: #D8E5FF;
+    box-shadow: 0px 5px 5px ;
+}
+
+#education .right-box>img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Education*/
+
+/*Footer*/
+
+
+/*Footer*/
